@@ -1,5 +1,6 @@
 #!bin/bash
 
+#Sdef
 bowtie_index=$1
 data_path=$2
 output=$2/result
